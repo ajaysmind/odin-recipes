@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project as part of The Odin Project. I created web page that holds different recipes. The first recipe made was the Apple Crisp recipe. I learned a lot on organization and how a webpage works when working on this from scratch.
